@@ -1,4 +1,4 @@
-#A check for pythagorean theorem
+#A check for pythagorean triple
 user_choice = input("Do you want to check if some numbers are pythagorean triple? yes/no  ")
 while user_choice == "yes":
     num1 = int(input("Please enter the first number: "))
